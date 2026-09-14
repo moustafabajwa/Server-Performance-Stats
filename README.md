@@ -13,8 +13,6 @@ A lightweight Bash script (`server-stats.sh`) that analyzes basic Linux server p
 
 ## Usage
 
-[Project](https://roadmap.sh/projects/server-stats)
-
 Clone the repository:
    ```bash
    git clone https://github.com/moustafabajwa/Server-Performance-Stats.git
