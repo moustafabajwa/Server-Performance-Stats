@@ -12,6 +12,8 @@ A lightweight Bash script (`server-stats.sh`) that analyzes basic Linux server p
 
 ## Usage
 
+Link to repository: [https://github.com/moustafabajwa/Server-Performance-Stats](https://github.com/moustafabajwa/Server-Performance-Stats)
+
 Clone the repository:
    ```bash
    git clone https://github.com/moustafabajwa/Server-Performance-Stats.git
