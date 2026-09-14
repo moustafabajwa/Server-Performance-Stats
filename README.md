@@ -2,6 +2,7 @@
 
 A lightweight Bash script (`server-stats.sh`) that analyzes basic Linux server performance metrics. Built and tested on Ubuntu Server.
 
+
 ## Features
 
 * **CPU Usage:** Total CPU usage percentage.
@@ -12,9 +13,10 @@ A lightweight Bash script (`server-stats.sh`) that analyzes basic Linux server p
 
 ## Usage
 
-Link to repository: [https://github.com/moustafabajwa/Server-Performance-Stats](https://github.com/moustafabajwa/Server-Performance-Stats)
+[Project](https://roadmap.sh/projects/server-stats)
 
 Clone the repository:
    ```bash
    git clone https://github.com/moustafabajwa/Server-Performance-Stats.git
    cd Server-Performance-Stats
+   ```
